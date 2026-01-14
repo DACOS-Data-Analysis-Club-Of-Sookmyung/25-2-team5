@@ -20,3 +20,6 @@ outputs/
 # -------------------------
 .DS_Store
 Thumbs.db
+
+!data/body_profile.json
+!data/style_profile.json
